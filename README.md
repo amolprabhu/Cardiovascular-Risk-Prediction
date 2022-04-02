@@ -10,4 +10,4 @@ The project has been conducted in 5 steps:
 4. Model Building and Evaluation
 5. Hyperparameter Tuning
 
-The result is a Random Forest model with almost 89% accuracy, 89% precision and 87% recall.
+The result is a XGBoost model with almost 87% accuracy, 89% precision and 84% recall.
