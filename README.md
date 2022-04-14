@@ -18,6 +18,20 @@ The result is a XGBoost model with almost 87% accuracy, 89% precision and 84% re
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
+<h2 id="credits"> :scroll: Credits</h2>
+
+Amol Prabhu | Avid Learner | Data Scientist | Machine Learning Enthusiast
+
+<p> <i> Contact me for Data Science Project Collaborations</i></p>
+
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amolprabhu/)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amolprabhu)
+[![Medium Badge](https://img.shields.io/badge/Medium-1DA1F2?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@amolprabhu)
+[![Resume Badge](https://img.shields.io/badge/resume-0077B5?style=for-the-badge&logo=resume&logoColor=white)](https://drive.google.com/drive/folders/1IL3WB6ONxBI5Zrb3yLZCTydTdSAw9RpS?usp=sharing)
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 ## 📚 References
 1. Coronary Heart Disease - https://www.medicalnewstoday.com/articles/184130
 2. Pulse Pressure - https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/expert-answers/pulse-pressure/faq-20058189#:~:text=The%20top%20number%20(systolic)%20minus,40%20mm%20Hg%20is%20unhealthy.
